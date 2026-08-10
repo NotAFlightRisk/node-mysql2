@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.23.4](https://github.com/sidorares/node-mysql2/compare/v3.23.3...v3.23.4) (2026-08-10)
+
+
+### Bug Fixes
+
+* **typings:** align callback Pool and PoolConnection types with runtime ([#4478](https://github.com/sidorares/node-mysql2/issues/4478)) ([8b1f829](https://github.com/sidorares/node-mysql2/commit/8b1f829d3706404ab372cf97bd77ebcf86578d97))
+
 ## [3.23.3](https://github.com/sidorares/node-mysql2/compare/v3.23.2...v3.23.3) (2026-08-10)
 
 
